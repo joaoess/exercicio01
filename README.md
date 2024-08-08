@@ -1,1 +1,1 @@
-# exercicio01
+INICIANDO COM O GIT
